@@ -3,7 +3,7 @@ body{
     margin: 0;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    height: 100vh;
 }
 
 .calculator{
@@ -34,8 +34,8 @@ body{
 }
 
 button{
-    width: 75px;
-    height: 75px;
+    width: 80px;
+    height: 80px;
   background-color: rgb(61, 62, 63);
   color: white;
   border-radius: 50px;
